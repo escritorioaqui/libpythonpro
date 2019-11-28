@@ -5,3 +5,4 @@ Repositório Educacional para ensino das bibliotecas necessárias para desenvolv
 Módulo para exemplificar construção de projetos Python no curso PyTools
 
 Aluno: Gilson de Brito Nogueira
+
