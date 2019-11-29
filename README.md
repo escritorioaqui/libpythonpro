@@ -10,5 +10,7 @@ Aluno: Gilson de Brito Nogueira
 
 Engenheiro Civil
 
+Palmeiras 
+
 Link do curso [Python Pro](https://www.python.pro.br/)
 
