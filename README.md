@@ -8,5 +8,5 @@ Módulo para exemplificar construção de projetos Python no curso PyTools
 
 Aluno: Gilson de Brito Nogueira
 
-
 Link do curso [Python Pro](https://www.python.pro.br/)
+
