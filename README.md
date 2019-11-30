@@ -14,6 +14,21 @@ Palmeiras
 
 Link do curso [Python Pro](https://www.python.pro.br/)
 
+Suportada versão 3 do Python
+
+Para instalar:
+
+""" console
+python -m venv .venv
+.venv/scripts/activate
+pip install -r requirements-dev.txt
+"""
+
+Para avaliar a qualidade do código:
+
+"""console
+flake8
+"""
 Tópico a serem abordados:
  1. Git
  2. Virtualenv
