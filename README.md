@@ -14,6 +14,8 @@ Palmeiras
 
 Link do curso [Python Pro](https://www.python.pro.br/)
 [![Build Status](https://travis-ci.org/engnogueira/libpythonpro.svg?branch=master)](https://travis-ci.org/engnogueira/libpythonpro)
+[![Updates](https://pyup.io/repos/github/escritorioaqui/libpythonpro/shield.svg)](https://pyup.io/repos/github/escritorioaqui/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/escritorioaqui/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/escritorioaqui/libpythonpro/)
 
 Suportada versão 3 do Python
 
